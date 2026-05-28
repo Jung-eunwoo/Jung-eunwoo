@@ -163,22 +163,7 @@ OAuth 콜백, 토큰 분기, 인앱 브라우저 호환성처럼
 
 <p align="center">
   <a href="https://github.com/Jung-eunwoo">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jung-eunwoo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=A4D24A&icon_color=A4D24A&text_color=24292e&bg_color=ffffff&card_width=460" height="180"/>
-  </a>
-  <a href="https://github.com/Jung-eunwoo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-eunwoo&layout=compact&hide_border=true&title_color=A4D24A&text_color=24292e&bg_color=ffffff&langs_count=8&card_width=320" height="180"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jung-eunwoo">
     <img src="https://streak-stats.demolab.com/?user=Jung-eunwoo&hide_border=true&background=ffffff&stroke=A4D24A&ring=A4D24A&fire=A4D24A&currStreakLabel=A4D24A&sideLabels=24292e&dates=24292e&currStreakNum=24292e&sideNums=24292e" height="180"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jung-eunwoo">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jung-eunwoo&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,PullRequest,Reviews,Stars,Followers,Issues,Repositories" />
   </a>
 </p>
 
@@ -187,24 +172,6 @@ OAuth 콜백, 토큰 분기, 인앱 브라우저 호환성처럼
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jung-eunwoo&theme=minimal&hide_border=true&color=A4D24A&line=A4D24A&point=24292e&bg_color=ffffff" alt="contribution graph" width="92%"/>
   </a>
 </p>
-
-<br/>
-
-<!-- ───────────────── LEARNING ───────────────── -->
-
-## 📚 Currently Learning
-
-<table>
-<tr>
-<td>🎯</td><td><b>정보처리기사 실기</b> (2026.05 응시)</td>
-</tr>
-<tr>
-<td>⚛️</td><td><b>React 생태계 심화</b> — Server Components · Suspense 패턴 · 상태관리 비교군 정리</td>
-</tr>
-<tr>
-<td>🏗️</td><td><b>Frontend Platform 패턴</b> — 디자인 시스템과 빌드 파이프라인을 한 줄로 잇기</td>
-</tr>
-</table>
 
 <br/>
 
