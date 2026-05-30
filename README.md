@@ -1,18 +1,18 @@
 <!--
   GitHub Profile README · Jung-eunwoo
-  brand accent: fitpl lime  ·  primary #A4D24A  ·  ink #24292e
+  brand accent: fitpl lime  ·  #A4D24A
   최종 갱신: 2026-05-29
 -->
 
 <!-- ───────────────── HEADER ───────────────── -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=220&section=header&text=Jung-eunwoo&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20Product-driven%20Builder&descAlignY=60&descSize=16&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A4D24A&height=220&section=header&text=Jung-eunwoo&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20building%20fitpl&descAlignY=60&descSize=16&animation=fadeIn" alt="header"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Jung-eunwoo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A4D24A&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Jung-eunwoo+%F0%9F%91%8B;Frontend+Engineer+who+ships+products;Currently+building+%E2%9A%A1+fitpl;React+%C2%B7+TypeScript+%C2%B7+Zustand+%C2%B7+Storybook;Design+System+%C2%B7+Hybrid+App+%C2%B7+DX" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A4D24A&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Jung-eunwoo+%F0%9F%91%8B;Frontend+Engineer+who+ships+products;Currently+building+%E2%9A%A1+fitpl;React+%C2%B7+TypeScript+%C2%B7+Zustand+%C2%B7+Storybook;Hybrid+App+%C2%B7+OAuth+%C2%B7+Design+System" alt="typing"/>
   </a>
 </p>
 
@@ -24,6 +24,15 @@
 
 <p align="center">
   <em>제품을 만들고, 디자인 시스템을 지키고, 인증·결제 같은 까다로운 흐름을 끝까지 따라가는 프론트엔드 엔지니어.</em>
+</p>
+
+<!-- ───────────────── QUICK INFO BAR ───────────────── -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Now-fitpl%20%C2%B7%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%A0%81%EC%9A%A9%20%EB%8B%A8%EA%B3%84-A4D24A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Stack-React%20%C2%B7%20TypeScript-24292e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Based%20in-Seoul%20%C2%B7%20KR-A4D24A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Product%20%C2%B7%20DX%20%C2%B7%20Auth-24292e?style=flat-square"/>
 </p>
 
 <br/>
@@ -53,7 +62,11 @@
 <td width="38%" align="center" valign="top">
 
 <br/>
-<img alt="fitpl" src="https://img.shields.io/badge/fitpl-A4D24A?style=for-the-badge&labelColor=A4D24A&color=A4D24A&logoColor=white" width="160"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/fitpl-A4D24A?style=for-the-badge&labelColor=24292e&color=A4D24A"/>
+  <img alt="fitpl" src="https://img.shields.io/badge/fitpl-A4D24A?style=for-the-badge&labelColor=A4D24A&color=A4D24A&logoColor=white" width="180"/>
+</picture>
 
 <br/><br/>
 
@@ -75,7 +88,7 @@
 
 <br/>
 
-<!-- ───────────────── BUILD PRINCIPLES ───────────────── -->
+<!-- ───────────────── HOW I BUILD ───────────────── -->
 
 ## 🧭 How I build
 
@@ -194,5 +207,5 @@ OAuth 콜백, 토큰 분기, 인앱 브라우저 호환성처럼
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A4D24A&height=110&section=footer"/>
 </p>
